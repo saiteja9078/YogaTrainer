@@ -1,0 +1,4 @@
+flask
+cv2
+mediapipe
+numpy
