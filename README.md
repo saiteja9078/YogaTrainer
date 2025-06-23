@@ -18,9 +18,7 @@ This project helps users perform a guided sequence of yoga asanas by detecting a
 
 ---
 
-## 🧪 Demo
-
-👉 **[Demo / LinkedIn](#)** ← *(https://www.linkedin.com/posts/sai-teja-bejavada-00aa50289_machinelearning-computervision-healthtech-activity-7302058855557935105-mGus?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYZnQoBHaWI-LtiCoyLslQ6lQCsHSBEZB4)*
+## 🧪 [Demo](https://www.linkedin.com/posts/sai-teja-bejavada-00aa50289_machinelearning-computervision-healthtech-activity-7302058855557935105-mGus?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYZnQoBHaWI-LtiCoyLslQ6lQCsHSBEZB4)
 
 ---
 
